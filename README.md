@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Rochish
 - 👀 I’m interested in Artificial intelligence and Machine learning & Deep learning
+- 👨‍💻 I'm currently working as Data Scientist at PharmCADD
 - 🌱 I’m currently learning new ML and DL algorithms
 - 💞️ I’m looking to collaborate on AI & ML
 - 📫 How to reach me gmail at raptortreats@gmail.com
