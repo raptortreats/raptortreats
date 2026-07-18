@@ -1,43 +1,58 @@
 # Hi there, I'm Rochish 👋
 
-I'm an **AI Engineer** passionate about building intelligent systems that solve real-world problems. My work focuses on **Applied AI, Machine Learning, Deep Learning, NLP, Computer Vision, and AI for Drug Discovery**.
+I'm an **AI Engineer** passionate about building intelligent systems that bridge **Artificial Intelligence, Quantum Computing, and Scientific Research**. My work spans **Machine Learning, Deep Learning, Large Language Models, Computer Vision, Quantum Machine Learning, and AI-driven Drug Discovery**.
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-* 🤖 Develop and deploy AI/ML solutions for scientific and real-world applications.
-* 🧠 Build deep learning models using **PyTorch** and **TensorFlow**.
-* 🔬 Explore **Generative AI, LLMs, RAG, AI Agents, and Quantum Machine Learning**.
-* 📚 Continuously learning and experimenting with emerging AI technologies.
+* 🤖 Design and develop AI solutions for healthcare and scientific research.
+* 🧠 Build and deploy deep learning models using **PyTorch** and **TensorFlow**.
+* 💬 Develop **LLM applications, RAG pipelines, and AI Agents**.
+* ⚛️ Explore **Quantum Machine Learning** using **Qiskit** and hybrid quantum-classical algorithms.
+* 🔬 Apply AI and computational techniques to accelerate drug discovery.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, SQL
+**Languages**
 
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
+* Python, SQL
 
-**LLMs & AI:** LangChain, LangGraph, RAG, Vector Databases
+**AI & Machine Learning**
 
-**Computer Vision:** OpenCV
+* PyTorch, TensorFlow, Scikit-learn, Hugging Face
 
-**Data Science:** Pandas, NumPy, Matplotlib
+**Generative AI**
 
-**Tools:** Git, Docker, FastAPI, Jupyter Notebook
+* LLMs, LangChain, LangGraph, RAG, AI Agents
 
-### 🌱 Current Focus
+**Quantum Computing**
 
-* Building production-ready AI applications
-* Large Language Models (LLMs)
-* Multi-Agent AI Systems
+* Qiskit
+* Quantum Machine Learning
+* Hybrid Quantum-Classical Models
+
+**Computer Vision**
+
+* OpenCV
+
+**Backend & MLOps**
+
+* FastAPI, Docker, Git
+
+## 🌱 Currently Exploring
+
+* Production AI Systems
+* Multi-Agent AI
+* Quantum AI for Drug Discovery
 * Computer Vision
-* AI for Healthcare & Drug Discovery
+* MLOps & AI Deployment
 
-### 🤝 Open to Collaborate
+## 🤝 Let's Connect
 
-I'm always interested in collaborating on innovative AI, Machine Learning, Deep Learning, and open-source projects.
+I'm always interested in collaborating on **Artificial Intelligence, Quantum Computing, Machine Learning, and Healthcare AI** projects.
 
-### 📫 Contact
+📫 **Email:** [rochish.gsk@outlook.com](mailto:rochish.gsk@outlook.com)
 
-**Email:** [rochish.gsk@outlook.com](mailto:rochish.gsk@outlook.com)
+
 
 
 <!---
