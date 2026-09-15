@@ -1,4 +1,4 @@
-<h1 align="center">Rochish</h1>
+<h1 align="center">Rochish G.S.K</h1>
 
 <p align="center">
   <a href="https://github.com/raptortreats">
