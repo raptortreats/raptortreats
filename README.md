@@ -38,6 +38,13 @@ I'm an **AI Engineer** passionate about building intelligent systems that bridge
 
 * FastAPI, Docker, Git
 
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=raptortreats&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raptortreats&layout=compact&theme=transparent" alt="Top languages" />
+</p>
+
 ## 🌱 Currently Exploring
 
 * Production AI Systems
